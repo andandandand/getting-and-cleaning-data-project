@@ -16,5 +16,5 @@ Things to do to get the *run_analysis* script to work:
  
   - dataMeans.txt (220 Kb):contains a data frame called result with dimensions of 180 x 68.
 
-* Use data <- read.table("dataMeans.txt") command in RStudio to read the file. We have 180 rows with the combinations of of features
+* Use data <- read.table("dataMeans.txt") command in RStudio to read the file. We have 180 rows with the combinations of features
 
